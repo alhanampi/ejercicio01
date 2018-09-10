@@ -1,0 +1,44 @@
+body {
+	margin: 0;
+	}
+
+.banner {
+	width: 100%;
+}
+
+aside {
+	width: 25%;
+	height: 165vh;
+	background-color: lightcoral;
+	display: inline-block;	
+	float: left;
+	}
+
+h1 {
+	font-family: roboto;
+	font-size: 24px;
+}
+
+section {
+	width: 74%;
+	background-color: salmon;
+	display: inline-block;
+	float: left;
+	text-align: center;
+	}
+
+.cajas {
+	width: 300px;
+	display: inline-block;
+	text-align: center;
+	background-color: lightsalmon;
+	margin-top: 5px;	
+
+}
+
+.texto {
+	padding-left: 30px;
+	padding-right: 30px;
+	text-align: center;
+	font-family: Lato-Regular;
+}
